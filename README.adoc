@@ -2,19 +2,19 @@
 
 The Agile movement is one of the most significant movements in the history of information technology and computing. Its influence is extending well beyond its IT origins into management more broadly. Information technology is an increasing part of all products (e.g. the Internet of Things), and so Agile approaches are seen increasingly throughout product management. Lean has been a major influence on Agile, and these two movements continue to converge and interact. Agile approaches to starting new companies are gaining favor as well.
 
-The purpose of this group is to study and develop an educational response to the Agile movement, in the interests of supporting Minnesota educators and industry partners. This group welcomes all Minnesota educators, industry practitioners, students, and anyone else who is interested. 
+The purpose of this group is to study and develop an educational response to the Agile movement, in the interests of supporting Minnesota educators and industry partners. This group welcomes all Minnesota educators, industry practitioners, students, and anyone else who is interested.
 
-Minnesota has a rich history in computing footnote:[“Minnesota’s Hidden History in Computing,” Charles Babbage Institute, University of Minnesota, http://www.cbi.umn.edu/resources/MHHC/.], as the cradle of many significant IT companies: Control Data, Univac, Honeywell, Cray, IBM Rochester, and more. However, more recently, Minnesota is in decline as an innovation center. The state is losing young workers and critical innovation centers to the West Coast footnote:[“Minnesota's youth exodus spells trouble ahead for labor force,” Minnesota Star Tribune, April 18, 2015, http://www.startribune.com/minnesota-s-youth-exodus-spells-trouble-ahead-for-labor-force/300549671/ ; “Target opens office in heart of Silicon Valley,” Minnesota Star Tribune, August 5, 2014, http://www.startribune.com/target-opens-office-in-heart-of-silicon-valley/269916971/; 
-“Best Buy is opening a tech office in Seattle,” Minnesota Star Tribune, February 19, 2015, http://www.startribune.com/best-buy-opening-seattle-tech-office-hiring-50/292423651/ 
+Minnesota has a rich history in computing footnote:[“Minnesota’s Hidden History in Computing,” Charles Babbage Institute, University of Minnesota, http://www.cbi.umn.edu/resources/MHHC/.], as the cradle of many significant IT companies: Control Data, Univac, Honeywell, Cray, IBM Rochester, and more. However, more recently, Minnesota is in decline as an innovation center. The state is losing young workers and critical innovation centers to the West Coast footnote:[“Minnesota's youth exodus spells trouble ahead for labor force,” Minnesota Star Tribune, April 18, 2015, http://www.startribune.com/minnesota-s-youth-exodus-spells-trouble-ahead-for-labor-force/300549671/ ; “Target opens office in heart of Silicon Valley,” Minnesota Star Tribune, August 5, 2014, http://www.startribune.com/target-opens-office-in-heart-of-silicon-valley/269916971/;
+“Best Buy is opening a tech office in Seattle,” Minnesota Star Tribune, February 19, 2015, http://www.startribune.com/best-buy-opening-seattle-tech-office-hiring-50/292423651/
 ].
 
-Even so, the state continues to support an above-average concentration of large corporate headquarters (Target, Best Buy, United Health Group, Cargill, General Mills, 3M, SuperValu, EcoLab and many more), medical technology firms (Medtronic, St. Jude) as well as significant technology design, operations, and services centers of non-Minnesota firms (Unisys, Wells Fargo, Symantec, Seagate, Boston Scientific, etc). 
+Even so, the state continues to support an above-average concentration of large corporate headquarters (Target, Best Buy, United Health Group, Cargill, General Mills, 3M, SuperValu, EcoLab and many more), medical technology firms (Medtronic, St. Jude) as well as significant technology design, operations, and services centers of non-Minnesota firms (Unisys, Wells Fargo, Symantec, Seagate, Boston Scientific, etc).
 
-We are already seeing disruptions in the workforce stemming from Lean and Agile management approaches to IT. A major Minnesota company recently let hundreds of traditionally positioned IT professionals go, while simultaneously opening up dozens of “DevOps” positions. Other such anecdotes are increasingly heard. Minnesota educators have a responsibility to respond to these trends. There is a large workforce in need of assistance. 
+We are already seeing disruptions in the workforce stemming from Lean and Agile management approaches to IT. A major Minnesota company recently let hundreds of traditionally positioned IT professionals go, while simultaneously opening up dozens of “DevOps” positions. Other such anecdotes are increasingly heard. Minnesota educators have a responsibility to respond to these trends. There is a large workforce in need of assistance.
 
-New curricula are called for, and an increasing degree of collaboration across Minnesota educational institutions, perhaps reminiscent of the old https://en.wikipedia.org/wiki/MECC[Minnesota Educational Computing Consortium]. 
+New curricula are called for, and an increasing degree of collaboration across Minnesota educational institutions, perhaps reminiscent of the old https://en.wikipedia.org/wiki/MECC[Minnesota Educational Computing Consortium].
 
-We would like to hear from all Minnesota educators interested in the following: 
+We would like to hear from all Minnesota educators interested in the following:
 
 * Management information systems and IT management
 * Agile methods, including their broader acceptance and influence on enterprise thinking
@@ -25,41 +25,50 @@ We would like to hear from all Minnesota educators interested in the following:
 * Continuous delivery, DevOps, and related practices
 * Agile and Lean theories
 
-We believe that there is clearly a new emerging model of information technology delivery. 
+We believe that there is clearly a new emerging model of information technology delivery.
 
 we offer the following premises, as a set of old vs. new contrasts:
 
 == Premises of The Lean/Agile Working Group
 |====
-Old view
-New view
-Lean/Agile is a cultural and generational phenomenon that will pass.
-Lean/Agile  has sound empirical and theoretical foundations. Rather than being seen as a passing fad, it is better understood as the logical culmination of the great systems and management theorists of the 20th century (Deming, Forrester, et al.)
+|Old view|New view
+|Lean/Agile is a cultural and generational phenomenon that will pass.
+|Lean/Agile  has sound empirical and theoretical foundations. Rather than being seen as a passing fad, it is better understood as the logical culmination of the great systems and management theorists of the 20th century (Deming, Forrester, et al.)
 
 
-Theory is relevant for core computer science, but less so for IT industry practice.
-There are relevant theories for software product management, work execution, and service operations that we as educators should be using to inform our pedagogy. 
-Teaching students an assortment of foundational theory and functional skills (computation, programming languages, networking, security, and more applied topics) is sufficient.
-Students need to understand the collaborative software-based product lifecycle process as a socio-technical system. 
-The default organizing model of functionally specialized, maximally utilized IT organizations matrixed through projects and processes is effective and needs little further discussion. 
-Current IT management guidance overlooks critical insights of queueing theory, resulting in gridlock. Project and process management across functionally specialized centers of excellence is being challenged by product-centric approaches (e.g. Amazon’s “Two-pizza team” model). The “business/IT” boundary continues to erode as part of this. The implications of this for traditional IT organizational design and performance management are radical and poorly addressed in in research and pedagogy.
-Product design is not our field.
-IT is an increasing component of products in general and this is transforming both the practices of IT and product management. It can be argued that all IT system development is a form of product design and delivery. 
-Companies vary too greatly in how they employ IT and software graduates for academic training to cover practical issues. 
-There is an emerging practical industry consensus around how IT is best delivered. Regions where this is most advanced are reaping economic benefit. 
+|Theory is relevant for core computer science, but less so for IT industry practice.
+|There are relevant theories for software product management, work execution, and service operations that we as educators should be using to inform our pedagogy.
 
-Certain widely adopted  industry practices (source control and computing infrastructure automation in particular) need to be better reflected in current instructional approaches. Teaching them as isolated functional topics is insufficient. They should pervade the IT student experience, just as antiseptic practices pervade medical education.
-Lean/Agile can be understood and taught as a subset of project management.
-Lean/Agile is expanding upstream (via product management and increasing impact on organizational design) and downstream (via DevOps) from traditional project management and is challenging project management’s foundational assumptions. 
+|Teaching students an assortment of foundational theory and functional skills (computation, programming languages, networking, security, and more applied topics) is sufficient.
+|Students need to understand the collaborative software-based product lifecycle process as a socio-technical system.
 
+|The default organizing model of functionally specialized, maximally utilized IT organizations matrixed through projects and processes is effective and needs little further discussion.
+|Current IT management guidance overlooks critical insights of queueing theory, resulting in gridlock. Project and process management across functionally specialized centers of excellence is being challenged by product-centric approaches (e.g. Amazon’s “Two-pizza team” model). +
+ +
+ The “business/IT” boundary continues to erode as part of this. The implications of this for traditional IT organizational design and performance management are radical and poorly addressed in in research and pedagogy.
+
+|Product design is not our field.
+|IT is an increasing component of products in general and this is transforming both the practices of IT and product management. It can be argued that all IT system development is a form of product design and delivery.
+
+|Companies vary too greatly in how they employ IT and software graduates for academic training to cover practical issues.
+|There is an emerging practical industry consensus around how IT is best delivered. Regions where this is most advanced are reaping economic benefit. +
+ +
+Certain widely adopted  industry practices (*source control*, *continuous delivery*, and *computing infrastructure automation* in particular) need to be better reflected in current instructional approaches. Teaching them as isolated functional topics is insufficient. They should pervade the IT student experience, just as antiseptic practices pervade medical education.
+
+|Agile methods can be understood and taught as a subset of project management.
+|Lean/Agile IT is expanding upstream (via product management and increasing impact on organizational design) and downstream (via DevOps) from traditional project management and is challenging project management’s foundational assumptions. +
+ +
 Filtering Lean/Agile through a project management lens tends to reduce it to development-centric Agile practices such as Scrum, and diminishes the breadth of Agile theory and applicability. In fact, the future of project management is itself in question; significant concerns have been raised about the theoretical foundations of project management as traditionally understood.
-Industry partnerships are essential.
-Yes, and we need to have additional experiential approaches, such as shared simulation testbeds and effective hands-on labs, for grounding students in current industrial practices so they are well prepared for their industry practicums. 
-Technology is moving too fast and we continually struggle with keeping up and staying relevant.
-There is a new high value, well-grounded, stable pedagogical core we can identify, that can be translated at different levels for students of various interests and abilities. We do not need to resign ourselves to merely providing fashion-driven vocational training. 
+
+
+|Industry partnerships are essential.
+|Yes, and we need to have additional experiential approaches, such as shared simulation testbeds and effective hands-on labs, for grounding students in current industrial practices so they are well prepared for their industry practicums.
+
+|Technology is moving too fast and we continually struggle with keeping up and staying relevant.
+|There is a new high value, well-grounded, stable pedagogical core we can identify, that can be translated at different levels for students of various interests and abilities. We do not need to resign ourselves to merely providing fashion-driven vocational training.
 |====
 
 Like any mental model, these contrasts are open to debate, refinement, and even elimination.
 
 
-Meetup group:
+Interested so far? Introducing the Agile Study Group.
