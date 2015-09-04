@@ -71,4 +71,4 @@ Filtering Lean/Agile through a project management lens tends to reduce it to dev
 Like any mental model, these contrasts are open to debate, refinement, and even elimination.
 
 
-Interested so far? Introducing the Agile Study Group.
+Interested so far? Introducing the https://github.com/MN-ASG/main/blob/master/about-mn-asg.adoc[Agile Study Group].
