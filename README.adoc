@@ -8,8 +8,10 @@ Minnesota has a rich history in computing footnote:[“Minnesota’s Hidden Hist
 “Best Buy is opening a tech office in Seattle,” Minnesota Star Tribune, February 19, 2015, http://www.startribune.com/best-buy-opening-seattle-tech-office-hiring-50/292423651/ 
 ].
 
-Even so, the state continues to support an above-average concentration of large corporate headquarters (Target, Best Buy, United Health Group, Cargill, General Mills, 3M, SuperValu, EcoLab and many more), medical technology firms (Medtronic, St. Jude) as well as significant design, operations, and services centers of non-Minnesota firms (Unisys, Wells Fargo, Symantec, Seagate, Boston Scientific, etc). 
+Even so, the state continues to support an above-average concentration of large corporate headquarters (Target, Best Buy, United Health Group, Cargill, General Mills, 3M, SuperValu, EcoLab and many more), medical technology firms (Medtronic, St. Jude) as well as significant technology design, operations, and services centers of non-Minnesota firms (Unisys, Wells Fargo, Symantec, Seagate, Boston Scientific, etc). 
 
 We are already seeing disruptions in the workforce stemming from Lean and Agile management approaches to IT. A major Minnesota company recently let hundreds of traditionally positioned IT professionals go, while simultaneously opening up dozens of “DevOps” positions. Other such anecdotes are increasingly heard. Minnesota educators have a responsibility to respond to these trends. There is a large workforce in need of assistance. 
+
+New curricula are called for, and an increasing degree of collaboration across Minnesota educational institutions, perhaps reminiscent of the old https://en.wikipedia.org/wiki/MECC[Minnesota Educational Computing Consortium]. 
 
 Meetup group:
