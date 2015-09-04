@@ -1,0 +1,5 @@
+= Minnesota Agile Study Group
+
+This is the initial collaboration site for the Minnesota Agile Study Group to develop a joint vision and initiative. 
+
+_Administrator's note: Github may not be the best location for this (was looking at Zoho Wiki) but it's familiar and free, and in the interests of "minimum viable product" let's start here._

@@ -1,2 +1,0 @@
-# main
-Initial collaborative repository. 
