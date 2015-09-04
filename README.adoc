@@ -10,4 +10,6 @@ Minnesota has a rich history in computing footnote:[“Minnesota’s Hidden Hist
 
 Even so, the state continues to support an above-average concentration of large corporate headquarters (Target, Best Buy, United Health Group, Cargill, General Mills, 3M, SuperValu, EcoLab and many more), medical technology firms (Medtronic, St. Jude) as well as significant design, operations, and services centers of non-Minnesota firms (Unisys, Wells Fargo, Symantec, Seagate, Boston Scientific, etc). 
 
+We are already seeing disruptions in the workforce stemming from Lean and Agile management approaches to IT. A major Minnesota company recently let hundreds of traditionally positioned IT professionals go, while simultaneously opening up dozens of “DevOps” positions. Other such anecdotes are increasingly heard. Minnesota educators have a responsibility to respond to these trends. There is a large workforce in need of assistance. 
+
 Meetup group:
