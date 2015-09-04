@@ -1,10 +1,11 @@
 = Minnesota Agile Study Group
 
-This is the initial collaboration site for the Minnesota Agile Study Group to develop a joint vision and initiative. 
+The Agile movement is one of the most significant movements in the history of information technology and computing. Its influence is extending well beyond its IT origins into management more broadly. Information technology is an increasing part of all products (e.g. the Internet of Things), and so Agile approaches are seen increasingly throughout product management. Lean has been a major influence on Agile, and these two movements continue to converge and interact. Agile approaches to starting new companies are gaining favor as well.
 
-_Administrator's note: Github may not be the best location for this (was looking at Zoho Wiki) but it's familiar and free, and in the interests of "minimum viable product" let's start here._
-
-footnote:[<text>]
+The purpose of this group is to study and develop an educational response to the Agile movement, in the interests of supporting Minnesota educators and industry partners. This group welcomes all Minnesota educators, industry practitioners, students, and anyone else who is interested. 
 
 
-this that
+Minnesota has a rich history in computing footnote:[“Minnesota’s Hidden History in Computing,” Charles Babbage Institute, University of Minnesota, http://www.cbi.umn.edu/resources/MHHC/.], as the cradle of many significant IT companies: Control Data, Univac, Honeywell, Cray, IBM Rochester, and more. However, more recently, Minnesota is in decline as an innovation center. The state is losing young workers and critical innovation centers to the West Coast.
+
+
+Meetup group:
