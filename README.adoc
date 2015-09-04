@@ -4,8 +4,9 @@ The Agile movement is one of the most significant movements in the history of in
 
 The purpose of this group is to study and develop an educational response to the Agile movement, in the interests of supporting Minnesota educators and industry partners. This group welcomes all Minnesota educators, industry practitioners, students, and anyone else who is interested. 
 
-
-Minnesota has a rich history in computing footnote:[“Minnesota’s Hidden History in Computing,” Charles Babbage Institute, University of Minnesota, http://www.cbi.umn.edu/resources/MHHC/.], as the cradle of many significant IT companies: Control Data, Univac, Honeywell, Cray, IBM Rochester, and more. However, more recently, Minnesota is in decline as an innovation center. The state is losing young workers and critical innovation centers to the West Coast.
+Minnesota has a rich history in computing footnote:[“Minnesota’s Hidden History in Computing,” Charles Babbage Institute, University of Minnesota, http://www.cbi.umn.edu/resources/MHHC/.], as the cradle of many significant IT companies: Control Data, Univac, Honeywell, Cray, IBM Rochester, and more. However, more recently, Minnesota is in decline as an innovation center. The state is losing young workers and critical innovation centers to the West Coast footnote:[“Minnesota's youth exodus spells trouble ahead for labor force,” Minnesota Star Tribune, April 18, 2015, http://www.startribune.com/minnesota-s-youth-exodus-spells-trouble-ahead-for-labor-force/300549671/ ; “Target opens office in heart of Silicon Valley,” Minnesota Star Tribune, August 5, 2014, http://www.startribune.com/target-opens-office-in-heart-of-silicon-valley/269916971/; 
+“Best Buy is opening a tech office in Seattle,” Minnesota Star Tribune, February 19, 2015, http://www.startribune.com/best-buy-opening-seattle-tech-office-hiring-50/292423651/ 
+].
 
 
 Meetup group:
