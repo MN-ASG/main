@@ -37,6 +37,8 @@ Activities this group is pursuing and considering include:
 
 * Research, papers and presentations
 
+https://github.com/MN-ASG/main/blob/master/mn-asg-program.adoc[Program of the Minnesota Agile Study Group]
+
 == Meetup
 
 Face to face meetings are organized through the http://www.meetup.com/Agile-Study-Group/[Minnesota Agile Study Group Meetup]. Two books have been studied:
