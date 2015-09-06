@@ -15,12 +15,12 @@ We offer the following premises, as a set of old vs. new contrasts:
 |Students need to understand the collaborative software-based product lifecycle process as a socio-technical system.
 
 |The default organizing model of functionally specialized, maximally utilized IT organizations matrixed through projects and processes is effective and needs little further discussion.
-|Current IT management guidance overlooks critical insights of queueing theory, resulting in gridlock. Project and process management across functionally specialized centers of excellence is being challenged by product-centric approaches (e.g. Amazon’s “Two-pizza team” model). +
- +
- The “business/IT” boundary continues to erode as part of this. The implications of this for traditional IT organizational design and performance management are radical and poorly addressed in in research and pedagogy.
+|Current IT management guidance overlooks critical insights of queueing theory, resulting in gridlock. Project and process management across functionally specialized centers of excellence is being challenged by product-centric approaches (e.g. Amazon’s “Two-pizza team” model).
 
 |Product design is not our field.
-|IT is an increasing component of products in general and this is transforming both the practices of IT and product management. It can be argued that all IT system development is a form of product design and delivery.
+|IT is an increasing component of products in general and this is transforming both the practices of IT and product management. It can be argued that all IT system development is a form of product design and delivery.+
+ +
+ The “business/IT” boundary continues to erode as part of this. The implications of this for traditional IT organizational design and performance management are radical and poorly addressed in in research and pedagogy.
 
 |Companies vary too greatly in how they employ IT and software graduates for academic training to cover practical issues.
 |There is an emerging practical industry consensus around how IT is best delivered. Regions where this is most advanced are reaping economic benefit. +
