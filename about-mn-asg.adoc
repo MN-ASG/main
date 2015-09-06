@@ -2,7 +2,7 @@
 
 This group was founded at the http://advanceitmn.org/[May 2015 Advance-IT New Directions in IT Education conference] in Minnesota.  The initiating "pitch deck" is available on http://www.slideshare.net/alphas0ng/pitch-editagileed[Slideshare].
 
-== Structure of The Agile Study Group
+== Structure of The Minnesota Agile Study Group
 The founding members of The Agile Study Group are:
 
 * Charles Betz, Digital Management Academy and University of St. Thomas
@@ -12,7 +12,12 @@ The founding members of The Agile Study Group are:
 * Jack Pope, North Hennepin Community College
 * Rob Sleezer, Minnesota State University, Mankato
 
-The Agile Study Group is not formally incorporated at this time and is run on the consensus of the founding members. Charles Betz is currently the Meetup.com organizer of record. Further evolution of governance is anticipated.
+The following individuals are providing periodic guidance:
+
+* Murray Cantor, Ph.D.
+* Gene Kim
+
+The Agile Study Group is not formally incorporated at this time and is run on the consensus of the founding members. Charles Betz is currently the Meetup.com organizer of record. Further evolution of governance is anticipated. Discussions are ongoing regarding a national Lean and Agile Working Group; contact Charles Betz if you are interested.
 
 == General principles
 The most troubling words heard in the Agile movement are: “You just don’t get Agile.”
@@ -37,7 +42,7 @@ Activities this group is pursuing and considering include:
 
 * Research, papers and presentations
 
-https://github.com/MN-ASG/main/blob/master/mn-asg-program.adoc[Program of the Minnesota Agile Study Group]
+For current approach, see https://github.com/MN-ASG/main/blob/master/mn-asg-program.adoc[Program of the Minnesota Agile Study Group]
 
 == Meetup
 
