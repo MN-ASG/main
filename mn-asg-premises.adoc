@@ -25,7 +25,7 @@ We offer the following premises, as a set of old vs. new contrasts:
 |Companies vary too greatly in how they employ IT and software graduates for academic training to cover practical issues.
 |There is an emerging practical industry consensus around how IT is best delivered. Regions where this is most advanced are reaping economic benefit. +
  +
-Certain widely adopted  industry practices (*source control*, *continuous delivery*, and *computing infrastructure automation* in particular) need to be better reflected in current instructional approaches. Teaching them as isolated functional topics is insufficient. They should pervade the IT student experience, just as antiseptic practices pervade medical education.
+Certain widely adopted  industry practices (*source control*, *continuous delivery*, and *computing infrastructure automation* in particular) need to be better reflected in current instructional approaches. Teaching them as isolated functional topics is insufficient. *They should pervade the IT student experience, just as antiseptic practices pervade medical education.*
 
 |Agile methods can be understood and taught as a subset of project management.
 |Lean/Agile IT is expanding upstream (via product management and increasing impact on organizational design) and downstream (via DevOps) from traditional project management and is challenging project management’s foundational assumptions. +
