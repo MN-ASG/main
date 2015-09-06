@@ -2,4 +2,12 @@
 
 The Minnesota Agile Study Group has a standing meeting and is engaged in study of relevant materials.
 
-The time is ripe for brainstorming about how Minnesota educators can 
+This is only preparatory to a broader program of engagement with the Minnesota educational system.
+
+This page is intended to document ASG brainstorming regarding potential initiatives to promote Lean and Agile IT management as a new direction for Minnesota educators.
+
+The MN-ASG will spend the 2015-2016 school year identifying a useful set of activities. However, one of the most likely efforts will be to define a reference curriculum for Agile/Lean IT programming, whether credit or non-credit.
+
+Another likely avenue for pursuit is the development of labs and simulations supporting this curriculum.
+
+A key milestone will be the May 2016 Advance-IT conference, where MN-ASG can present its efforts and seek further support.
