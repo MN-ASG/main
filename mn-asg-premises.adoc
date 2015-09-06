@@ -30,7 +30,7 @@ Certain widely adopted  industry practices (*source control*, *continuous delive
 |Agile methods can be understood and taught as a subset of project management.
 |Lean/Agile IT is expanding upstream (via product management and increasing impact on organizational design) and downstream (via DevOps) from traditional project management and is challenging project management’s foundational assumptions. +
  +
-Filtering Lean/Agile through a project management lens tends to reduce it to development-centric Agile practices such as Scrum, and diminishes the breadth of Agile theory and applicability. In fact, the future of project management is itself in question; significant concerns have been raised about the theoretical foundations of project management as traditionally understood.
+Filtering Lean/Agile through a project management lens tends to reduce it to development-centric Agile practices such as Scrum, and diminishes the breadth of Agile theory and applicability. In fact, the future of project management is itself in question; significant concerns have been raised about the theoretical foundations and practical utility of project management as traditionally understood.
 
 
 |Industry partnerships are essential.
