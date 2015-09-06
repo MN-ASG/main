@@ -25,4 +25,4 @@ We would like to hear from all Minnesota educators interested in the following:
 * Continuous delivery, DevOps, and related practices
 * Agile and Lean theories
 
-We believe that there is clearly a new emerging model of information technology delivery. See
+We believe that there is clearly a new emerging model of information technology delivery. See our https://github.com/MN-ASG/main/blob/master/mn-asg-premises.adoc[Premises].
