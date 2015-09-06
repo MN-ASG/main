@@ -3,7 +3,7 @@
 We offer the following premises, as a set of old vs. new contrasts:
 
 |====
-|Old view|New view
+|*Old view*|*New view*
 |Lean/Agile is a cultural and generational phenomenon that will pass.
 |Lean/Agile  has sound empirical and theoretical foundations. Rather than being seen as a passing fad, it is better understood as the logical culmination of the great systems and management theorists of the 20th century (Deming, Forrester, et al.)
 
