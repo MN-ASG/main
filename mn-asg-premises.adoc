@@ -18,7 +18,7 @@ We offer the following premises, as a set of old vs. new contrasts:
 |Current IT management guidance overlooks critical insights of queueing theory, resulting in gridlock. Project and process management across functionally specialized centers of excellence is being challenged by product-centric approaches (e.g. Amazon’s “Two-pizza team” model).
 
 |Product design is not our field.
-|IT is an increasing component of products in general and this is transforming both the practices of IT and product management. It can be argued that all IT system development is a form of product design and delivery.+
+|IT is an increasing component of products in general and this is transforming both the practices of IT and product management. It can be argued that all IT system development is a form of product design and delivery. +
  +
  The “business/IT” boundary continues to erode as part of this. The implications of this for traditional IT organizational design and performance management are radical and poorly addressed in in research and pedagogy.
 
