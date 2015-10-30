@@ -1,0 +1,18 @@
+= Agile learning objectives
+
+Collaboration
+
+How to grade team projects? How to grade individual participation within teams?
+
+Higher level values vs practical applications
+
+Why vs what?
+
+Test automation at a coaching & architecture level
+- test harness becomes part of product, but setting up is specialized
+
+- Communication/BA
+
+- How to interpret Specifications
+
+- "T" shaped resources
