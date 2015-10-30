@@ -15,7 +15,7 @@ The founding members of The Agile Study Group are:
 The following individuals are providing periodic guidance:
 
 * Murray Cantor, Ph.D.
-* Gene Kim
+* Gene Kim, Author, _The Phoenix Project_
 
 The Agile Study Group is not formally incorporated at this time and is run on the consensus of the founding members. Charles Betz is currently the Meetup.com organizer of record. Further evolution of governance is anticipated. Discussions are ongoing regarding a national Lean and Agile Working Group; contact Charles Betz if you are interested.
 
