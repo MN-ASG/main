@@ -1,80 +1,73 @@
 = Devops Certificate Approach
 
-== Questions
-
-What is the target market for this class?
-
 == Objectives
+By taking the courses comprising this certificate, students will learn DevOps fundamentals including its vision, culture, workflow, monitoring methods and tools. Students will take these concepts and see how they relate to software design and construction, automated testing, continuous integration and build and deployment management with modern, automated pipelines.
 
-=== Hands on
-DevOps fundamentals including its vision, culture, workflow, monitoring methods and tools. Students will take these concepts and see how they relate to automated and A/B testing and orient them towards the notion of release pipelines. Leading experts will share current methods and best practices in the field of continuous monitoring and deployment strategies.
-Topics include:
+== Topics
 
-* Concepts and vision of Dev and Ops to DevOps
-* Release and deployment pipelines
-* Automated testing
-* A/B testing
-* Production monitoring
-* Common personas in the DevOps value stream
-* Global optimization vs. local optimization
-
-==== Product management
-* Scrum
+=== Product management
 * Contrasted to project management
+* Scrum
+* Product development versus production
+* The need for fast feedback
+* Decision making techniques in enabling fast flow of work
+* Software and operations architecture to sustain fast flow and experimentation
+* DevOps metrics and measurement
+* The theory of constraints
+* Queuing theory
 
-==== IT infrastructure
+=== IT infrastructure
 * Cloud
 * Web-scale IT
 
-==== IT applications
+=== IT applications
+* Automated testing
+* A/B testing
 * Continuous delivery pipeline
 
-==== Work management
+=== Work management
 * Kanban
-* Contrasted to project management
+* The problem of invisible WIP
 
-==== Operations management
+=== Operations management
+* Production monitoring
+* Advanced change theory
 
-=== Principles & context
-
-==== Organizational development
+=== Organizational development
+* Global optimization vs. local optimization
 * Spectrum of organizational models
 * Purely functional to purely skunkworks
 * The problem of specialization
 
-==== Product flow
-* Product development versus production
-* The need for fast feedback
-* The problem of invisible WIP
-* Decision making techniques in enabling fast flow of work
-* Software and operations architecture to sustain fast flow and experimentation
-* Advanced change theory
-* DevOps metrics and measurement
-* Continuous monitoring procedures
-* The theory of constraints
-* Queuing theory
-
-various DevOps test architecture and patterns. You will explore several structured DevOps approaches that guide decision making in this field. DevOps student teams will understand and implement policies and procedures necessary to engage with customers, and to continually shape and reshape their requirements with customer satisfaction in mind. Students will learn the need for shared goals and visibility and cross-team dependencies that contribute to building solutions.
-Topics include:
-
-* Processes in automation
-
-
-
 
 == Thoughts on course mappings
 
-* IT infrastructure (SEIS660)
-As currently structured, this course could serve as a survey for the certificate, but students will want more hands-on. Span is currently very broad.
+=== SEIS 610 SEng Method
+Iterative & incremental is discussed
+increase practical source control?
+Gathering requirement, designing, implementing
+Maintenance
 
-* Java programming
-If this course were adapted to use a DevOps pipeline, it could provide the focused hands-on needed.
+=== SEIS 636 IT requirements
+To support the certificate, This course could include more on product  management, which is becoming the primary way in which Agile organizations are structed.
 
-* IT requirements
+=== SEIS 625 IT project management
+To support the certificate, needs a strong Scrum component.
 
-* IT project management
+=== SEIS 626 Quality management
+To support the certificate, should include a strong test-driven design component.
 
-Notes from University of Washington program manager discussion - why they cancelled.
+It might be valuable if this class in particular would share the same simulation infrastructure as SEIS660. The lab server there is already set up with a full test-driven development pipeline.
+
+=== SEIS 660 IT infrastructure
+As currently structured, this course could serve as a survey for the certificate, but students will want more hands-on. Span is currently very broad. The latter lectures are more about process & enterprise level concerns, perhaps less relevant.
+
+=== Java programming
+If this course were adapted to use the SEIS660 DevOps pipeline, it could provide the focused hands-on needed.
+
+=== U of WA DevOps certificate (cancelled)
+
+Notes from University of Washington program manager (Lalitha Subramaniam) discussion - why they cancelled.
 
 - Premature market entry
 - DevOps is "culture" & hard to teach
