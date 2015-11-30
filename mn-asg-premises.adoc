@@ -12,7 +12,7 @@ We offer the following premises, as a set of old vs. new contrasts:
 |There are relevant theories for software product management, work execution, and service operations that we as educators should be using to inform our pedagogy.
 
 |Teaching students an assortment of foundational theory and functional skills (computation, programming languages, networking, security, and more applied topics) is sufficient.
-|Students need to understand the collaborative software-based product lifecycle process as a socio-technical system.
+|Students need to understand the collaborative software-based product lifecycle as a socio-technical system.
 
 |The default organizing model of functionally specialized, maximally utilized IT organizations matrixed through projects and processes is effective and needs little further discussion.
 |Current IT management guidance overlooks critical insights of queueing theory, resulting in gridlock. Project and process management across functionally specialized centers of excellence is being challenged by product-centric approaches (e.g. Amazon’s “Two-pizza team” model).
